@@ -1,0 +1,43 @@
+body{
+    color: white;
+    background-color: black;
+}
+.button{
+    float: right;
+    text-decoration: none;
+}
+.middle{
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-top: 150px;
+    font-size: 0.93em;
+}
+.list{
+    margin-left: 400px;    
+}
+.list3{
+    float: left;
+    width: 100px;
+}
+.card{
+    text-align: center;
+    margin-top: 20px;
+    border-color: white;
+    background-color: black;
+}
+.nav-link{
+    width : 100px;
+    text-align: center;
+    color: white;
+}
+.nav-item:hover{
+    color: white;
+    background-color:lightgray;
+    text-decoration: none;
+}
+.card-group{
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
